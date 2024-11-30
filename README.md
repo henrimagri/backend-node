@@ -2,7 +2,7 @@
 
 Este projeto é uma API RESTful desenvolvida em Node.js, utilizando Express.js e Sequelize para o gerenciamento de banco de dados. O objetivo principal é gerenciar usuários com operações de CRUD (Create, Read, Update, Delete).
 
----
+--
 
 ## **Índice**
 - [Requisitos](#requisitos)
